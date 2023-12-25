@@ -1,0 +1,86 @@
+Sn,LabelName,DeviceAlias,RegName,RegisterTypes,StationNo,IsUseStationNoIndex,MainAddress,SubAddress,BlockAddress,IsUseBlockAddressIndex,UseWordAsBit,StationAddressDeviceAlias,StationAddressRegName,StationAddressRegisterTypes,StationAddressStationNo,StationAddressMainAddress,StationAddressBlockAddress,BlockAddressDeviceAlias,BlockAddressRegName,BlockAddressRegisterTypes,BlockAddressStationNo,BlockAddressMainAddress,BlockAddressBlockAddress,PlcId,StationAddressPlcId,BlockAddressPlcId,Version
+60c68836-acb7-4d54-8090-e2b2ba1648ea,PLC_AI_1_Max,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,104,0,0,False,False,,,,,,,,,,,,,4,,,1
+e9963a74-c220-4540-86d0-80a14b118f58,PLC_AI_1_SP_LL,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,105,0,0,False,False,,,,,,,,,,,,,4,,,1
+66f92c17-b109-4464-b689-8970e7476623,PLC_AI_1_SP_L,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,106,0,0,False,False,,,,,,,,,,,,,4,,,1
+e9540580-b6fe-40eb-8982-c01b780d3f86,PLC_AI_1_SP_H,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,107,0,0,False,False,,,,,,,,,,,,,4,,,1
+c4380bb2-60e2-4c41-ac0a-d907dcf7945c,PLC_AI_1_SP_HH,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,108,0,0,False,False,,,,,,,,,,,,,4,,,1
+e759d589-93af-4c31-9efe-7be59d86da7f,PLC_AI_2_Result,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,113,0,0,False,False,,,,,,,,,,,,,4,,,1
+6e6cc6e7-4c91-4a00-9a54-6e47b745301f,PLC_AI_2_Max,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,114,0,0,False,False,,,,,,,,,,,,,4,,,1
+40d00560-db4a-4353-9dbd-e59637efa424,PLC_AI_2_SP_LL,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,115,0,0,False,False,,,,,,,,,,,,,4,,,1
+52313fdd-1ab8-460a-b63d-38deb61063ef,PLC_AI_2_SP_L,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,116,0,0,False,False,,,,,,,,,,,,,4,,,1
+09c83330-30f7-408c-a43e-ec68ecacd5e2,PLC_AI_2_SP_H,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,117,0,0,False,False,,,,,,,,,,,,,4,,,1
+5d7311ec-d130-463d-bc5f-2436298fb3f6,PLC_AI_2_SP_HH,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,118,0,0,False,False,,,,,,,,,,,,,4,,,1
+b1256d7f-e84c-443c-9f5b-0c53665be807,PLC_AI_3_Result,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,123,0,0,False,False,,,,,,,,,,,,,4,,,1
+729d51e9-9fb1-4332-bb12-cf7010bd6f77,PLC_AI_3_Max,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,124,0,0,False,False,,,,,,,,,,,,,4,,,1
+1fe81fa3-01bf-4518-87eb-67bfb9e773e9,PLC_AI_3_SP_LL,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,125,0,0,False,False,,,,,,,,,,,,,4,,,1
+d4ecaa26-7f7e-4b64-80f8-3e48c5901dbd,PLC_AI_3_SP_L,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,126,0,0,False,False,,,,,,,,,,,,,4,,,1
+12289746-2bff-4f2b-ae1a-ac233b037969,PLC_AI_3_SP_H,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,127,0,0,False,False,,,,,,,,,,,,,4,,,1
+33ac3e41-de66-4ac9-a4a2-dd8679f6704b,PLC_AI_3_SP_HH,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,128,0,0,False,False,,,,,,,,,,,,,4,,,1
+a83dc3a1-2831-431b-ac10-6a1f4ba996c3,PLC_AI_4_Result,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,133,0,0,False,False,,,,,,,,,,,,,4,,,1
+de7452a9-fc98-4fc6-b199-74a7012e71f9,PLC_AI_4_Max,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,134,0,0,False,False,,,,,,,,,,,,,4,,,1
+8ce6b239-330d-4a4e-b5b1-0ed143c978ec,PLC_AI_4_SP_LL,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,135,0,0,False,False,,,,,,,,,,,,,4,,,1
+eae0c640-6c52-4f61-ae22-7c1f2926eb84,PLC_AI_4_SP_L,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,136,0,0,False,False,,,,,,,,,,,,,4,,,1
+821efd9e-3ac1-458d-8f6c-05d88661999b,PLC_AI_4_SP_H,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,137,0,0,False,False,,,,,,,,,,,,,4,,,1
+cb45c0f8-07eb-4630-9526-93f6d2c90137,PLC_AI_4_SP_HH,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,138,0,0,False,False,,,,,,,,,,,,,4,,,1
+052701f7-3774-4209-88c2-c1562b0e0ea2,PLC_AO_2_Result,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,146,0,0,False,False,,,,,,,,,,,,,4,,,1
+f65bc09e-e274-46df-a89c-6d0796b688da,PLC_AO_2_Max,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,147,0,0,False,False,,,,,,,,,,,,,4,,,1
+e196247f-5ea3-416c-b75e-f4513c53b46e,PLC_AO_3_Result,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,150,0,0,False,False,,,,,,,,,,,,,4,,,1
+0e85ed80-fdeb-4e55-a832-b9ee075c0220,PLC_AO_3_Max,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,151,0,0,False,False,,,,,,,,,,,,,4,,,1
+40634472-6633-4b92-b48b-1d167d004fac,PLC_AO_4_Result,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,154,0,0,False,False,,,,,,,,,,,,,4,,,1
+9a8ea612-a552-4e4d-87fe-227fc708320d,PLC_AO_4_Max,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,155,0,0,False,False,,,,,,,,,,,,,4,,,1
+0bb941f1-3c4d-4f2a-bb11-fc91f34a15d3,sys_in_update,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,98,0,0,False,True,,,,,,,,,,,,,4,,,1
+d56af000-f6d1-48d7-9737-4feb12016d20,sys_out_update,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,99,0,0,False,True,,,,,,,,,,,,,4,,,1
+c82ed2f0-d508-4640-a07f-2b487e0cc214,sys_scr,Local,LW,Word,0,False,10,0,0,False,False,,,,,,,,,,,,,0,,,1
+113e781c-a52f-43ac-8017-fba3556c5b4e,sys_scr_alm,Local,LW,Word,0,False,11,0,0,False,False,,,,,,,,,,,,,0,,,1
+99d0210a-3570-48cc-b29a-f405c0f3bd35,status_link,Local,LW,Word,0,False,0,0,0,False,False,,,,,,,,,,,,,0,,,1
+b8ed4712-5e47-48ce-bd6e-02bfd9b2ad03,PLC_AI_1_Hand,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,101,0,0,False,True,,,,,,,,,,,,,4,,,1
+57f717d9-e9c4-49c8-9e65-164eb6c06f43,PLC_AI_1_SC,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,102,1,0,False,True,,,,,,,,,,,,,4,,,1
+18ae5ed2-97b9-4741-9930-f07e251628e2,PLC_AI_1_NC,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,102,2,0,False,True,,,,,,,,,,,,,4,,,1
+afbdd7d6-7ea5-409e-9dbc-fe32f7cd79c2,PLC_AI_1_LL,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,102,3,0,False,True,,,,,,,,,,,,,4,,,1
+b608dfb8-bc22-4cf0-982f-00011c2ff3ac,PLC_AI_1_HH,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,102,6,0,False,True,,,,,,,,,,,,,4,,,1
+b397681c-eb9c-4b2e-9d39-8ae477282b91,PLC_AI_2_Hand,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,111,0,0,False,True,,,,,,,,,,,,,4,,,1
+0c30d357-f3db-45ae-8b18-d2b3595d4f58,PLC_AI_2_SC,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,112,1,0,False,True,,,,,,,,,,,,,4,,,1
+f9bd13b0-59f9-4d4f-8cb4-fe5c0e338c60,PLC_AI_2_NC,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,112,2,0,False,True,,,,,,,,,,,,,4,,,1
+bcd079dd-34a9-40f0-9a61-bc99a3d62075,PLC_AI_2_LL,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,112,3,0,False,True,,,,,,,,,,,,,4,,,1
+58a4cbf3-45e4-4748-aee2-bb8fe653791d,PLC_AI_2_HH,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,112,6,0,False,True,,,,,,,,,,,,,4,,,1
+85d6ebbe-f34f-48f0-9ee8-c1e74a00361d,PLC_AI_3_Hand,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,121,0,0,False,True,,,,,,,,,,,,,4,,,1
+3d3d5154-8e3b-4de7-a3a1-7eede2d9678e,PLC_AI_3_SC,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,122,1,0,False,True,,,,,,,,,,,,,4,,,1
+4c38e12d-7c26-491d-8b20-f9d5e210d43b,PLC_AI_3_NC,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,122,2,0,False,True,,,,,,,,,,,,,4,,,1
+aab7231b-29ac-4ae0-8894-e5cf40aaea24,PLC_AI_3_LL,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,122,3,0,False,True,,,,,,,,,,,,,4,,,1
+266d4816-274e-4268-88bd-b2f29ba4a593,PLC_AI_3_HH,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,122,6,0,False,True,,,,,,,,,,,,,4,,,1
+0d53c141-96ae-420c-a6c3-55f7b36e71cd,PLC_AI_4_Hand,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,131,0,0,False,True,,,,,,,,,,,,,4,,,1
+4288a7aa-7e80-4765-bf00-bd4c49f6673d,PLC_AI_4_SC,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,132,1,0,False,True,,,,,,,,,,,,,4,,,1
+3e0b42a6-dbf1-4f70-aeb6-c02308fcc704,PLC_AI_4_NC,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,132,2,0,False,True,,,,,,,,,,,,,4,,,1
+9c38ccb1-c316-4d17-87ac-4fdef039f434,PLC_AI_4_LL,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,132,3,0,False,True,,,,,,,,,,,,,4,,,1
+0877e5f6-1ac9-4141-8aef-d610c300cbd1,PLC_AI_4_HH,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,132,6,0,False,True,,,,,,,,,,,,,4,,,1
+ce8102fe-bcf5-4f88-8c51-d64a174061da,PLC_AO_1_Hand,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,141,0,0,False,True,,,,,,,,,,,,,4,,,1
+f2805b9c-f0fd-4a97-8471-207c87bec99f,PLC_AO_1_Result,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,142,0,0,False,False,,,,,,,,,,,,,4,,,1
+a8cea475-222e-466e-8b27-560d347d2eec,PLC_AO_1_Max,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,143,0,0,False,False,,,,,,,,,,,,,4,,,1
+c487df5a-a0a6-4f2b-a863-3ae6ef40f152,PLC_AO_2_Hand,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,145,0,0,False,True,,,,,,,,,,,,,4,,,1
+9ac10829-0a12-4ca8-89bb-34593213218c,PLC_AO_3_Hand,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,149,0,0,False,True,,,,,,,,,,,,,4,,,1
+14cb8ab1-eefc-434d-a0d3-634d49ff4364,PLC_AO_4_Hand,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,153,0,0,False,True,,,,,,,,,,,,,4,,,1
+1bebb2b0-0a04-453f-9d09-4c9d038c37cd,HMI_AI_1_Result,Local,LW,Word,0,False,100,0,0,False,False,,,,,,,,,,,,,0,,,1
+0c8860b2-1d57-4d24-a895-f9ac20fb3a59,HMI_AI_1_Max,Local,LW,Word,0,False,102,0,0,False,False,,,,,,,,,,,,,0,,,1
+19ae9ef6-f295-4f30-a96f-ad297e8a983d,HMI_AI_1_SP_LL,Local,LW,Word,0,False,104,0,0,False,False,,,,,,,,,,,,,0,,,1
+58c5cfcd-8b2e-43a7-839c-ce0413e9c0ce,HMI_AI_1_SP_L,Local,LW,Word,0,False,106,0,0,False,False,,,,,,,,,,,,,0,,,1
+2a875437-a8d0-40bf-bf44-d4011207abf1,HMI_AI_1_SP_H,Local,LW,Word,0,False,108,0,0,False,False,,,,,,,,,,,,,0,,,1
+8c86fc15-2ebd-46bf-8495-c27f89edd99c,HMI_AI_1_SP_HH,Local,LW,Word,0,False,110,0,0,False,False,,,,,,,,,,,,,0,,,1
+8a677b49-5ce6-44cc-a44c-54f8fc8e2e7c,HMI_AI_2_Result,Local,LW,Word,0,False,112,0,0,False,False,,,,,,,,,,,,,0,,,1
+8d02a158-a569-4ff9-ad37-6b7d855de8d5,HMI_AI_2_Max,Local,LW,Word,0,False,114,0,0,False,False,,,,,,,,,,,,,0,,,1
+4db217e3-69bc-4610-b6f9-3fd7e046157d,HMI_AI_2_SP_LL,Local,LW,Word,0,False,116,0,0,False,False,,,,,,,,,,,,,0,,,1
+2bd934b5-b8b5-40c2-94e9-ac9cfc560868,HMI_AI_2_SP_L,Local,LW,Word,0,False,118,0,0,False,False,,,,,,,,,,,,,0,,,1
+83949558-452f-4647-b638-e5e5b6e4a531,HMI_AI_2_SP_H,Local,LW,Word,0,False,120,0,0,False,False,,,,,,,,,,,,,0,,,1
+418b0ee0-3116-419d-95cb-9906b1fe0d80,HMI_AI_2_SP_HH,Local,LW,Word,0,False,122,0,0,False,False,,,,,,,,,,,,,0,,,1
+ae755d77-7a59-428d-876d-f063096eba63,HMI_AI_3_Result,Local,LW,Word,0,False,124,0,0,False,False,,,,,,,,,,,,,0,,,1
+5b590410-c2fc-42df-b7e6-ab8dc480abf4,HMI_AI_3_Max,Local,LW,Word,0,False,126,0,0,False,False,,,,,,,,,,,,,0,,,1
+66185072-26eb-4ec4-bb87-a6024ff55ee6,HMI_AI_3_SP_LL,Local,LW,Word,0,False,128,0,0,False,False,,,,,,,,,,,,,0,,,1
+2880c92f-2a69-477a-bb62-1233dc88dbfb,HMI_AI_3_SP_L,Local,LW,Word,0,False,130,0,0,False,False,,,,,,,,,,,,,0,,,1
+deb0001d-2d6a-4cad-b0b2-eb2b88515ec5,HMI_AI_3_SP_H,Local,LW,Word,0,False,132,0,0,False,False,,,,,,,,,,,,,0,,,1
+882dfb0c-3eee-436e-88a0-9144be094960,HMI_AI_3_SP_HH,Local,LW,Word,0,False,134,0,0,False,False,,,,,,,,,,,,,0,,,1
+c3782ce9-2a19-4f01-8527-a1c16f2955a3,HMI_AI_4_Result,Local,LW,Word,0,False,136,0,0,False,False,,,,,,,,,,,,,0,,,1
+acb9a1e7-ada5-48a3-8517-38c474ff8eb4,HMI_AI_4_Max,Local,LW,Word,0,False,138,0,0,False,False,,,,,,,,,,,,,0,,,1
+449e6448-02b3-4b12-977e-2940ab679ed5,HMI_AI_4_SP_LL,Local,LW,Word,0,False,140,0,0,False,False,,,,,,,,,,,,,0,,,1
+b23d8b7a-f4be-4988-b269-a4a1dcbd1759,HMI_AI_4_SP_L,Local,LW,Word,0,False,142,0,0,False,False,,,,,,,,,,,,,0,,,1
+e3accea3-bda1-47a7-8813-a31fd95e70c9,HMI_AI_4_SP_H,Local,LW,Word,0,False,144,0,0,False,False,,,,,,,,,,,,,0,,,1
+5836b795-01cb-455e-aeff-79c3d8672b15,HMI_AI_4_SP_HH,Local,LW,Word,0,False,146,0,0,False,False,,,,,,,,,,,,,0,,,1
+c19ff0f1-77eb-46a4-9b23-c98412ce3590,PLC_AI_1_Result,Device1:[МестныеCOM2:Modbus RTU],4X,Word,1,False,103,0,0,False,False,,,,,,,,,,,,,4,,,1

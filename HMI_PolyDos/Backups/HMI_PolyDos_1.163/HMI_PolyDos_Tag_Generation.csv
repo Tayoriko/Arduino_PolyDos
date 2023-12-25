@@ -1,0 +1,69 @@
+PLC_AI_1_Hand;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;101;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;Hand;101;0
+PLC_AI_1_SC;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;102;1;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;SC;102;1
+PLC_AI_1_NC;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;102;2;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;NC;102;2
+PLC_AI_1_LL;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;102;3;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;LL;102;3
+PLC_AI_1_HH;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;102;6;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;HH;102;6
+PLC_AI_1_Result;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;103;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;Result;103;0
+PLC_AI_1_Max;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;104;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;Max;104;0
+PLC_AI_1_SP_LL;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;105;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;SP_LL;105;0
+PLC_AI_1_SP_L;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;106;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;SP_L;106;0
+PLC_AI_1_SP_H;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;107;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;SP_H;107;0
+PLC_AI_1_SP_HH;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;108;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;1;SP_HH;108;0
+PLC_AI_2_Hand;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;111;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;Hand;111;0
+PLC_AI_2_SC;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;112;1;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;SC;112;1
+PLC_AI_2_NC;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;112;2;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;NC;112;2
+PLC_AI_2_LL;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;112;3;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;LL;112;3
+PLC_AI_2_HH;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;112;6;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;HH;112;6
+PLC_AI_2_Result;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;113;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;Result;113;0
+PLC_AI_2_Max;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;114;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;Max;114;0
+PLC_AI_2_SP_LL;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;115;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;SP_LL;115;0
+PLC_AI_2_SP_L;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;116;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;SP_L;116;0
+PLC_AI_2_SP_H;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;117;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;SP_H;117;0
+PLC_AI_2_SP_HH;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;118;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;2;SP_HH;118;0
+PLC_AI_3_Hand;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;121;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;Hand;121;0
+PLC_AI_3_SC;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;122;1;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;SC;122;1
+PLC_AI_3_NC;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;122;2;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;NC;122;2
+PLC_AI_3_LL;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;122;3;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;LL;122;3
+PLC_AI_3_HH;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;122;6;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;HH;122;6
+PLC_AI_3_Result;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;123;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;Result;123;0
+PLC_AI_3_Max;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;124;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;Max;124;0
+PLC_AI_3_SP_LL;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;125;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;SP_LL;125;0
+PLC_AI_3_SP_L;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;126;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;SP_L;126;0
+PLC_AI_3_SP_H;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;127;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;SP_H;127;0
+PLC_AI_3_SP_HH;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;128;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;3;SP_HH;128;0
+PLC_AI_4_Hand;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;131;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;Hand;131;0
+PLC_AI_4_SC;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;132;1;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;SC;132;1
+PLC_AI_4_NC;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;132;2;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;NC;132;2
+PLC_AI_4_LL;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;132;3;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;LL;132;3
+PLC_AI_4_HH;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;132;6;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;HH;132;6
+PLC_AI_4_Result;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;133;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;Result;133;0
+PLC_AI_4_Max;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;134;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;Max;134;0
+PLC_AI_4_SP_LL;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;135;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;SP_LL;135;0
+PLC_AI_4_SP_L;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;136;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;SP_L;136;0
+PLC_AI_4_SP_H;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;137;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;SP_H;137;0
+PLC_AI_4_SP_HH;Device1:[МестныеCOM2:Modbus RTU];4X;Word;1;False;138;0;0;False;True;;;;;;;;;;;;;4;;;1;PLC;AI;4;SP_HH;138;0
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+HMI_AI_1_Result;Local;LW;Word;0;False;100;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;1;Result;100;0
+HMI_AI_1_Max;Local;LW;Word;0;False;102;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;1;Max;102;0
+HMI_AI_1_SP_LL;Local;LW;Word;0;False;104;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;1;SP_LL;104;0
+HMI_AI_1_SP_L;Local;LW;Word;0;False;106;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;1;SP_L;106;0
+HMI_AI_1_SP_H;Local;LW;Word;0;False;108;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;1;SP_H;108;0
+HMI_AI_1_SP_HH;Local;LW;Word;0;False;110;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;1;SP_HH;110;0
+HMI_AI_2_Result;Local;LW;Word;0;False;112;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;2;Result;112;0
+HMI_AI_2_Max;Local;LW;Word;0;False;114;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;2;Max;114;0
+HMI_AI_2_SP_LL;Local;LW;Word;0;False;116;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;2;SP_LL;116;0
+HMI_AI_2_SP_L;Local;LW;Word;0;False;118;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;2;SP_L;118;0
+HMI_AI_2_SP_H;Local;LW;Word;0;False;120;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;2;SP_H;120;0
+HMI_AI_2_SP_HH;Local;LW;Word;0;False;122;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;2;SP_HH;122;0
+HMI_AI_3_Result;Local;LW;Word;0;False;124;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;3;Result;124;0
+HMI_AI_3_Max;Local;LW;Word;0;False;126;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;3;Max;126;0
+HMI_AI_3_SP_LL;Local;LW;Word;0;False;128;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;3;SP_LL;128;0
+HMI_AI_3_SP_L;Local;LW;Word;0;False;130;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;3;SP_L;130;0
+HMI_AI_3_SP_H;Local;LW;Word;0;False;132;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;3;SP_H;132;0
+HMI_AI_3_SP_HH;Local;LW;Word;0;False;134;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;3;SP_HH;134;0
+HMI_AI_4_Result;Local;LW;Word;0;False;136;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;4;Result;136;0
+HMI_AI_4_Max;Local;LW;Word;0;False;138;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;4;Max;138;0
+HMI_AI_4_SP_LL;Local;LW;Word;0;False;140;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;4;SP_LL;140;0
+HMI_AI_4_SP_L;Local;LW;Word;0;False;142;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;4;SP_L;142;0
+HMI_AI_4_SP_H;Local;LW;Word;0;False;144;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;4;SP_H;144;0
+HMI_AI_4_SP_HH;Local;LW;Word;0;False;146;0;0;False;False;;;;;;;;;;;;;0;;;1;HMI;AI;4;SP_HH;146;0

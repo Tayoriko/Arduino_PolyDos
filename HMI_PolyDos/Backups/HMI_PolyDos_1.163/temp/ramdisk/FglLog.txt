@@ -1,0 +1,74 @@
+*GUI(1)*UserPrjDat:W:\PlatromIO\Projects\HMI_PolyDos\Bin\fshmi.bin
+*GUI(1)*PicResDir:W:\PlatromIO\Projects\HMI_PolyDos\Bin\Images\
+*GUI(1)*TtfResDir:W:\PlatromIO\Projects\HMI_PolyDos\Bin\Fonts\
+*GUI(1)*AudResDir:W:\PlatromIO\Projects\HMI_PolyDos\Bin\Audio\
+*GUI(1)*PlcDrvDir:W:\PlatromIO\Projects\HMI_PolyDos\Bin\Device\
+*GUI(1)*MacroDir:W:\PlatromIO\Projects\HMI_PolyDos\Bin\Macro\
+*GUI(1)*RcpDir:W:\PlatromIO\Projects\HMI_PolyDos\temp\disk\hmi\rcp\
+*GUI(1)*SysFrmBuf:<XPixs>1024</XPixs><YPixs>600</YPixs><ColorBits>16</ColorBits>
+*GUI(1)*HmiDir:W:\PlatromIO\Projects\HMI_PolyDos\temp\disk\hmi\
+*GUI(1)*SdDir:W:\PlatromIO\Projects\HMI_PolyDos\temp\disk\sd\
+*GUI(1)*Usb1Dir:W:\PlatromIO\Projects\HMI_PolyDos\temp\disk\usb1\
+*GUI(1)*Usb2Dir:C:\Program Files (x86)\ONI\ONI Visual Studio 2.x\Bin\
+*GUI(1)*MemFs:W:\PlatromIO\Projects\HMI_PolyDos\temp\ramdisk\
+*GUI(1)*RunMode:SimPlc
+*GUI(1)*Debug:N
+*GUI(1)*SysFontDir:C:\Program Files (x86)\ONI\ONI Visual Studio 2.x\Lib\Fonts\
+*GUI(1)*MapPort:1234
+*GUI(1)*ProjectCheckSum(0x1e4b74c, 0x1e4b37d)
+*GUI(1)*ClientMonit::Pid(0)
+*GUI(1)*LightSave 0 BackLight 0 LightPercent 0
+*GUI(1)*DoLoadTtfFile::Pid(0)
+*GUI(1)*loadTtfFile(C:\Program Files (x86)\ONI\ONI Visual Studio 2.x\Lib\Fonts\puhui-regular.ttf) OK
+*GUI(1)*loadTtfFile(W:\PlatromIO\Projects\HMI_PolyDos\Bin\Fonts\MICROSS.TTF) OK
+*GUI(1)*Touch::Pid(0)
+*GUI(1)*MacMonitor(9)::Pid(0)
+*GUI(1)*MacMonitor(1)::Pid(0)
+*GUI(1)*MacMonitor(10)::Pid(0)
+*GUI(1)*MacMonitor(4)::Pid(0)
+*GUI(1)*MacMonitor(2)::Pid(0)
+*GUI(1)*MacMonitor(11)::Pid(0)
+*GUI(1)*MacMonitor(0)::Pid(0)
+
+*GUI(1101)*TOUCH_DOWN:(203,59)
+*GUI(1201)*TOUCH_UP:(203,59)
+*GUI(2001)*TOUCH_DOWN:(279,172)
+*GUI(2001)*TOUCH_UP:(279,172)
+*GUI(2301)*TOUCH_DOWN:(491,284)
+*GUI(2401)*TOUCH_UP:(489,284)
+*GUI(2901)*TOUCH_DOWN:(255,66)
+*GUI(3001)*TOUCH_UP:(255,66)
+*GUI(3701)*TOUCH_DOWN:(393,161)
+*GUI(3801)*TOUCH_UP:(393,161)
+*GUI(4001)*TOUCH_DOWN:(533,257)
+*GUI(4201)*TOUCH_UP:(533,260)
+*GUI(4801)*TOUCH_DOWN:(335,52)
+*GUI(4901)*TOUCH_UP:(335,52)
+*GUI(5501)*TOUCH_DOWN:(512,173)
+*GUI(5601)*TOUCH_UP:(512,173)
+*GUI(5901)*TOUCH_DOWN:(609,269)
+*GUI(6001)*TOUCH_UP:(609,269)
+*GUI(6401)*TOUCH_DOWN:(405,46)
+*GUI(6601)*TOUCH_UP:(405,46)
+*GUI(7101)*TOUCH_DOWN:(471,208)
+*GUI(7201)*TOUCH_UP:(471,208)
+*GUI(7501)*TOUCH_DOWN:(668,278)
+*GUI(7601)*TOUCH_UP:(668,278)
+*GUI(9301)*TOUCH_DOWN:(333,53)
+*GUI(9401)*TOUCH_UP:(333,53)
+*GUI(9901)*TOUCH_DOWN:(455,160)
+*GUI(10001)*TOUCH_UP:(455,160)
+*GUI(10401)*TOUCH_DOWN:(610,280)
+*GUI(10501)*TOUCH_UP:(610,280)
+*GUI(30701)*TOUCH_DOWN:(400,49)
+*GUI(30801)*TOUCH_UP:(400,49)
+*GUI(31401)*TOUCH_DOWN:(561,156)
+*GUI(31501)*TOUCH_UP:(561,156)
+*GUI(31901)*TOUCH_DOWN:(680,284)
+*GUI(32001)*TOUCH_UP:(681,284)
+*GUI(39001)*TOUCH_DOWN:(260,56)
+*GUI(39101)*TOUCH_UP:(260,56)
+*GUI(39701)*TOUCH_DOWN:(440,164)
+*GUI(39801)*TOUCH_UP:(440,164)
+*GUI(40101)*TOUCH_DOWN:(520,266)
+*GUI(40201)*TOUCH_UP:(520,266)
